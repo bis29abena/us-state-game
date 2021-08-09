@@ -1,0 +1,7 @@
+##To get the coordinates of the x and y when the mouse is clicked
+#def mouse_on_click_cor(x, y):
+#    print(x, y)
+#
+#turtle.onscreenclick(mouse_on_click_cor)
+#
+#turtle.mainloop()
